@@ -1,7 +1,7 @@
 ---
 title: "👨🏻 About: The 5 Ws"
-permalink: posts/the-5-ws/
-date: '2020-12-18'
+permalink: blog/the-5-ws/
+date: '2018-12-18'
 tags: [braindump]
 ---
 ![Dinner](/images/2018/12/Dinner.jpg)
