@@ -35,14 +35,14 @@ The lack of marketing reflects in the stats, but I wanted to give a good push to
 📄 Feedback Form answers…………….……34 (+0)  
 💸 Revenue………………………….……….....…0€
 
-![](/content/images/2019/06/week4-5.png)
+![](/images/2019/06/week4-5.png)
 
 * * *
 
 🎨 The Illustration is here!
 ----------------------------
 
-![](/content/images/2019/06/bye.png)
+![](/images/2019/06/bye.png)
 
 The illustrator sent me the final result! My experience working with her surpassed by far all of my expectations. I have to note here that she took so much time to finish it because **I expressly asked her to give lower priority to my stuff** and take as much time as needed.
 
@@ -70,7 +70,7 @@ I'm curious to see how much traffic that post gets and brings here.
 💳 Motherf\*\*\*g Stripe payments following SCA
 -----------------------------------------------
 
-![](/content/images/2019/06/Screenshot-2019-06-18-at-13.10.28.png)
+![](/images/2019/06/Screenshot-2019-06-18-at-13.10.28.png)
 
 This image is from [Stripe's blog](https://stripe.com/billing-eu)
 

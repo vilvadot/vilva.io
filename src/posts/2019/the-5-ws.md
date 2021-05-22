@@ -2,7 +2,7 @@
 title: "👨🏻 About: The 5 Ws"
 permalink: blog/the-5-ws/
 date: '2018-12-18'
-tags: [braindump]
+tags: []
 ---
 ![Dinner](/images/2018/12/Dinner.jpg)
 
