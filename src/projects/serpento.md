@@ -20,7 +20,7 @@ team:
   - Ronte Escobar 
   - Diego Iglesias 
   - Carmen Mérida 
-  - Alberto Vilva.
+  - Vilva.
 
 ---
 SERPENTO is a multiplayer, massive and urban version of the ‘snake’. A reinterpretation of one of the most epic arcade games in digital culture, which escapes the autism of our devices to occupy the urban screen of Medialab-Prado and its plaza.

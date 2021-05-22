@@ -124,5 +124,3 @@ With all of this ready and working, I can start to build my first experiment, bu
 So in the following days I will be working on \[Cabify’s Back-end Challenge\]([GitHub - cabify/backend-challenge: Cabify Backend Technical Challenge](https://github.com/cabify/backend-challenge) with a bit of a spin, I will add a DB and a front-end to test the full capabilities of my stack. _And more importantly, my own ones_.
 
 This might sound like a weird decision. Why not start your first project ASAP?… Patience! A good friend of mine, great developer, has offered to review my result in this little practice, and that will help me tons in creating a solid base of knowledge for the first project. Im starting a bit slower than planned initially, but the experience is showing to be worthwhile :D
-
-Vilva.

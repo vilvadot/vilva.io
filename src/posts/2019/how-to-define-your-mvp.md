@@ -179,5 +179,3 @@ Conclusion
 *   Would I have evolved my product defining skills? **Definitely not**
 *   Would I have a cool ass looking spider graph on my wall now? **Probably not**
 *   Was it worth the handful of hours we invested in the process? **A big YES!** 🤟🏻
-
-Vilva.

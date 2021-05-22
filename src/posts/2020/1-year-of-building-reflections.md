@@ -102,5 +102,3 @@ Regarding ByteVitae, I'm leaving it on "standby" mode, it's only spending $7/mon
 * * *
 
 Those are my reflections after a year of building stuff. Leaving them written here so I don't forget them in the future!
-
-Vilva.

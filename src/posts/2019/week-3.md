@@ -171,5 +171,3 @@ Im gonna focus 100% on the payment stuff
 
 *   Finish integrating Stripe as a payment method
 *   Decide on a final business model
-
-Vilva.

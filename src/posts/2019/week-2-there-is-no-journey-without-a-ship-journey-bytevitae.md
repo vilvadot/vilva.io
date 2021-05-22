@@ -175,5 +175,3 @@ So I'm going to make a conscious effort from now on, to be more active on the co
 ![](/images/2019/05/indie-answers.jpg)
 
 Even though it felt scary, at the end it was people just trying to help other people out! (lets see how Hacker News goes… 😬)
-
-Vilva.

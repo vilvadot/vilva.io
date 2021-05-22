@@ -119,5 +119,3 @@ I'm fairly confident I can have a working MVP next week 😱
 *   **Try a closed beta with friends and family**
 
 Another thing I will focus on after the launch is on **releasing the scaffoldig I have developed for this project**, it's highly opinionated but I guess it could help someone shave quite a few hours off of their product-building 😁
-
-Vilva.

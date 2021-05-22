@@ -13,5 +13,3 @@ Every time you have one of those conversations you choose the harder path. And n
 Don't fear difficult conversations, embrace them!
 
 _\*Also, keep not being a dick when talking to people you care about._
-
-Vilva.

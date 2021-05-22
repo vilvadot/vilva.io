@@ -49,5 +49,3 @@ Updates
 [🗓 Week #3 - Typeform results, Stripe and friends](https://blog.vilva.io/week-3/)
 
 [🗓 Week #4 & #5 - Payments, new Illustration and Shame](https://blog.vilva.io/week-4-5-payments-new-illustration-and-shame/)
-
-Vilva.

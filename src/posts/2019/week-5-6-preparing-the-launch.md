@@ -108,5 +108,3 @@ So right now I'm working on implementing the UI I designed and preparing everyth
 *   **Get at least 5 more CV templates done**
 *   **Launch, gather feedback and improve FAST**
 *   **Prepare product hunt graphics and release**
-
-Vilva.

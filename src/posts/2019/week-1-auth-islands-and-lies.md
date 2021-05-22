@@ -104,5 +104,3 @@ Expected release
 ================
 
 The product is advancing at a pretty decent pace, wanted to release it on the 22nd, but life has taught me that my estimations are… imprecise. Some real life is getting in the way the next week, so **I will aim to launch around the 10th of June**.
-
-Vilva.

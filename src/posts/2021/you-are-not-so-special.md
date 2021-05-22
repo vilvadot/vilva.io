@@ -17,5 +17,3 @@ You shouldn’t feel better than anyone because you chose to pursue {{alternativ
 Life can be difficult, can be shitty, IT IS a struggle, but it is the way it is, no matter what path you choose. Life is boring, fun, easy, difficult, interesting, lame… that’s the magic of it, embrace it, don’t try to justify it.
 
 Forget how special you are and use that time and energy to focus on doing your best, it will go a long way.
-
-Vilva.

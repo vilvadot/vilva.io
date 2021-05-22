@@ -27,5 +27,3 @@ The hard truth I had to face recently is that the product that brought me the mo
 I'm trying to understand this because the great desire to build something big and succesful I had once has faded quite a bit. I lack the hunger anymore. And it all comes to the fact that chasing money feels empty at this point.
 
 And yet I can't stop constantly thinking about new stuff to build and generate profit. Like a hamster running in it's little wheel.
-
-Vilva.

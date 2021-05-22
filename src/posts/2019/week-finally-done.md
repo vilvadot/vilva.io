@@ -61,5 +61,3 @@ Unless things go incredibly well I will have to look for a job, which is another
 **BTW, if you know some cool place that is looking for remote developers give me a ping! hi@vilva.io 😘🤟🏻**
 
 So yeah, it seems the journey is arriving to a slowdown, but not to an end...
-
-Vilva.

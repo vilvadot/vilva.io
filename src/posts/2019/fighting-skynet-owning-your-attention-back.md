@@ -155,5 +155,3 @@ Conclusion
 Most of this patterns derive from a main major one that is: [The Fear of Missing Out or FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out). It's very important to realize this and accept it: you are human, you have a finite number of minutes in your day, a finite number of "energy" units in you and a finite attention span, don't waste them. **YOU DON'T NEED TO BE UP TO EVERYTHING THAT HAPPENS**. Chances are if something important happens you are going to eventually know it, and if you don't, it probably wasn't important enough.
 
 Take care of your attention and don't give it all away for free. Or you won't have any when you really need it.
-
-Vilva.
