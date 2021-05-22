@@ -1,11 +1,10 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "vilva.io",
+  "description": "Follow the fabulous adventures of a guy and his mustache trying to crack the mysteries of product building & other internet wonders.",
+  "url": "https://vilva.io",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Vilva",
+    "email": "hi@vilva.io"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -16,27 +15,11 @@
     },
     {
       "text": "About",
-      "url": "/about",
+      "url": "/blog/about",
       "external": false
     }
   ],
-  "socialLinks": [
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
-      "external": true
-    }
-  ],
+  "socialLinks": [],
   "footerLinks": [
     {
       "text": "RSS",

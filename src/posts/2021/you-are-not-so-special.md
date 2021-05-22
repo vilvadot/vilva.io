@@ -1,7 +1,7 @@
 ---
 title: "You are not that special"
 permalink: blog/you-are-not-so-special/
-date: '2020-12-31'
+date: '2021-12-31'
 tags: [braindump]
 ---
 You are not that special, because you chose to pursue the path of entrepreneurship and build your company to “save the world”.

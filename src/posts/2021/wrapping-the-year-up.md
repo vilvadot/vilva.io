@@ -1,7 +1,7 @@
 ---
 title: "Wrapping the year up"
 permalink: blog/wrapping-the-year-up/
-date: '2019-01-16'
+date: '2021-01-16'
 tags: [braindump]
 ---
 The pandemic is a bitch, let's put that clear. Having had close encounters with the virus at least 3 times by now I have come to accept that I'm gonna catch it eventually. Even though I'm confined at home, accepting this has relieved a lot of anxiety I had. Shit happens 🤷🏻‍♂️

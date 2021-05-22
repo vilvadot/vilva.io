@@ -2,7 +2,7 @@
 title: "Fighting Skynet: Owning your attention back"
 permalink: blog/fighting-skynet-owning-your-attention-back/
 date: '2019-12-01'
-tags: [tech-life]
+tags: [misc]
 ---
 You might have not noticed it, but if you are reading this, chances are you are part of an ongoing conflict right now. The war against machines is up and running! It's not a war fought with rockets and flamethrowers (at least for now) but with databases and scripts.  It's not a war for oil, gold or territory. It's **a war fought for your data and your time**..
 
