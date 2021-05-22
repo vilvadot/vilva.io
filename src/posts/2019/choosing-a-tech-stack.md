@@ -2,7 +2,7 @@
 title: "Choosing a Tech Stack"
 permalink: blog/choosing-a-tech-stack/
 date: '2019-04-03'
-tags: [projects]
+tags: [product-building]
 ---
 ![Choosing a Tech Stack](/images/2019/04/header.jpg)
 
@@ -10,7 +10,7 @@ Things have been shaping up great during the past few weeks. I have been tying u
 
 (Thanks to everyone who suffered the harassment 🖤)
 
-The journey is starting a bit slower than expected buy I have been working on quite a few things. One of them is setting up a project scaffolding I can maintain and reuse to start projects in “the most efficient way possible”.
+The journey is starting a bit slower than expected buy I have been working on quite a few things. One of them is setting up a project scaffolding I can maintain and reuse to start product-building in “the most efficient way possible”.
 
 TL;DR
 -----
@@ -29,7 +29,7 @@ Why should I do this you may ask. Why don’t you start writing code for your re
 
 It’s a very valid concern, but I decided to do it this way for a few very personal reasons:
 
-*   _I HATE starting projects_: I really dislike the phase of setting everything up, it can be somewhat satisfying (specially thinking about the architecture) but setting up all the initial pieces and make them work together (specially in the front-end!) feels very boring and tedious to me.
+*   _I HATE starting product-building_: I really dislike the phase of setting everything up, it can be somewhat satisfying (specially thinking about the architecture) but setting up all the initial pieces and make them work together (specially in the front-end!) feels very boring and tedious to me.
 *   _Im not going to focus ONLY in production_: I have decided (thanks to some very good friends advice) to take this journey as an experiment and a learning experience, and diverge a bit of my initial focus on 100% just money generation.  As a result of this, I took way more time than necessary in building this, understanding it and trying to learn the most from those I had access to.
 
 I could have jumped straight into building my first project with my actual knowledge. But as a friend told me: _The real value on this experiments you are going to work on, is your personal growth. Thats, what is a truly valuable asset. A monthly revenue is fragile, but a solid skill base is exploitable until you die._ Wise words.

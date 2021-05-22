@@ -62,6 +62,10 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addFilter('monthDate', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).setLocale('en-US').toLocaleString({month: 'long', year: 'numeric'});
+  });
+
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
   });
@@ -86,6 +90,7 @@ module.exports = function (eleventyConfig) {
             case 'nav':
             case 'post':
             case 'posts':
+            case 'projects':
               return false;
           }
 

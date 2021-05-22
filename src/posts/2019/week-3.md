@@ -2,7 +2,7 @@
 title: "Week #3 - Typeform results, Stripe and friends"
 permalink: blog/week-3/
 date: '2019-05-31'
-tags: [projects]
+tags: [product-building]
 ---
 ![Week #3 - Typeform results, Stripe and friends](/images/2019/05/cover.jpg)
 

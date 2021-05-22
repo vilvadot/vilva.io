@@ -2,7 +2,7 @@
 title: "Week #4 & #5 - Payments, new Illustration and Shame"
 permalink: blog/week-4-5-payments-new-illustration-and-shame/
 date: '2019-06-18'
-tags: [projects]
+tags: [product-building]
 ---
 What do we have here? 2 posts for the price of one? can it be?... of course not.
 
@@ -118,6 +118,6 @@ I'm fairly confident I can have a working MVP next week 😱
 *   **Implement the business model**
 *   **Try a closed beta with friends and family**
 
-Another thing I will focus on after the launch is on **releasing the scaffoldig I have developed for this project**, it's highly opinionated but I guess it could help someone shave quite a few hours off of their projects 😁
+Another thing I will focus on after the launch is on **releasing the scaffoldig I have developed for this project**, it's highly opinionated but I guess it could help someone shave quite a few hours off of their product-building 😁
 
 Vilva.

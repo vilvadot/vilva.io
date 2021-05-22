@@ -2,7 +2,7 @@
 title: "Week #1 - Islands, Auth and Lies"
 permalink: blog/week-1-auth-islands-and-lies/
 date: '2019-05-17'
-tags: [projects]
+tags: [product-building]
 ---
 ![Week #1 - Islands, Auth and Lies](/images/2019/05/Island.jpg)
 

@@ -2,7 +2,7 @@
 title: "⚗️ Experiment #1: ByteVitae.com"
 permalink: blog/experiment-1-bytevitae/
 date: '2019-05-15'
-tags: [projects]
+tags: [product-building]
 ---
 
 ![⚗️ Experiment #1: ByteVitae.com](/images/2019/05/spacex-549326-unsplash.jpg)

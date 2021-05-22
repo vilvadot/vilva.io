@@ -2,7 +2,7 @@
 title: "Week #?? - Reflections... and finally done!"
 permalink: blog/week-finally-done/
 date: '2019-09-16'
-tags: [projects]
+tags: [product-building]
 ---
 ![Week #?? - Reflections... and finally done!](/images/2019/09/snake.jpg)
 

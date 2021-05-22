@@ -1,0 +1,13 @@
+--- 
+layout: base.njk 
+permalink: /portfolio/
+title: 'Portfolio'
+---
+
+<h1>Projects</h1>
+
+<div class="tags">
+</div>
+
+{% set projectsList = collections.projects %}
+{% include "projects-list.njk" %}

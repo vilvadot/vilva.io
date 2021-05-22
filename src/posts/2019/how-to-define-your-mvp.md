@@ -2,7 +2,7 @@
 title: "How to define your MVP"
 permalink: blog/how-to-define-your-mvp/
 date: '2019-06-05'
-tags: [projects]
+tags: [product-building]
 ---
 ![How to define your MVP](/images/2019/05/mvp-graph-1.jpg)
 
@@ -96,7 +96,7 @@ This will make the core areas of your product shine to light, in ByteVitae's cas
 *   **Devices:** Where is your app going to run? Web? Mobile? TVs? IE6 🤭?
 *   **Language:** Internationalization
 
-As you can see many of these are common to different projects, see: Auth, Payment, User Types, Devices, and Language **are common to many SaaS products**. But for me, the coolest ones are the rest**, they tend to define where your value proposal is**.
+As you can see many of these are common to different product-building, see: Auth, Payment, User Types, Devices, and Language **are common to many SaaS products**. But for me, the coolest ones are the rest**, they tend to define where your value proposal is**.
 
 4\. The MVP graph
 =================

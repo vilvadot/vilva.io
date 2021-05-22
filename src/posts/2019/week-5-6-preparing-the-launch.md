@@ -2,7 +2,7 @@
 title: "Week #5 & #6 - Preparing the launch!"
 permalink: blog/week-5-6-preparing-the-launch/
 date: '2019-07-01'
-tags: [projects]
+tags: [product-building]
 ---
 
 Mon Jul 01 2019

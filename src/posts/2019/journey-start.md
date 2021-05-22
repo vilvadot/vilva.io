@@ -2,12 +2,12 @@
 title: "Buying time for adventures: 1000€ MRR in 2019 🌊💸"
 permalink: blog/journey-start/
 date: '2019-02-06'
-tags: [projects]
+tags: [product-building]
 ---
 
 ![Buying time for adventures: 1000€ MRR in 2019 🌊💸](/images/2019/01/austin-neill-685080-unsplash.jpg)
 
-Yet another post of a future guy living of his projects! Yay!
+Yet another post of a future guy living of his product-building! Yay!
 
 So yeah, I'm about to pursue the objective of building products and live of them. I'm pretty sure you have already heard about similar missions from others. Some which had success: [Pieter Levels](https://levels.io/50k/), [Patrick Walls](https://patwalls.co/the-best-year-of-my-life-in-35-tweets), [Andrey Azimov](https://www.andreyazimov.com/) or this guy: [Hamish Johnson](https://medium.com/@hamishjhnsn) (who you don't yet know, but should totally follow.)
 
@@ -44,7 +44,7 @@ How?
 
 Although the idea of 12 startups in 12 months sounds very interesting to me. I'm not going to be as strict. My main focus is validating as soon as possible ideas and discard them in favour of new ones if they don't work.
 
-If projects get traction and I see potential I will work on them as long as necessary. I see 1 month as a good deadline to validate ideas but I will go with the flow.
+If product-building get traction and I see potential I will work on them as long as necessary. I see 1 month as a good deadline to validate ideas but I will go with the flow.
 
 I will be mainly working in small SASS products, nothing that might get out of hand, both B2C and B2B. And atleast initially not hiring any talent.
 
@@ -76,7 +76,7 @@ Background
 
 I often feel in some of this posts there is a lack of background so I will try to put mine as detailed as possible. I'm not starting from scratch at all. Actually it kinda feels like the past ~10 years I have been training for this:
 
-*   I worked as a freelance web developer/designer on pretty simple projects (Wordpress stuff, simple HTML + CSS etc..) from 16 to 21 in various degrees of intensity. During this time I learnt the basics of programming and design.
+*   I worked as a freelance web developer/designer on pretty simple product-building (Wordpress stuff, simple HTML + CSS etc..) from 16 to 21 in various degrees of intensity. During this time I learnt the basics of programming and design.
 *   On the side I usually did graphic design stuff and got to learn a good bunch about branding, color, composition etc... _(also how shitty freelance can be)_
 *   Studied Industrial Design Engineering at uni (not very useful, but 🤷🏻‍♂️)
 *   Co-founded a **marketing startup** where I got a ton of experience on **UI, UX, Branding, Business stuff, some Marketing stuff etc...**  _(also how shitty the startup world can be)_ and made it grow with my team (~15 people) to a good position until I decided to leave.

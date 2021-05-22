@@ -2,7 +2,7 @@
 title: "👨🏻 About: The 5 Ws"
 permalink: blog/about/
 date: '2019-04-03'
-tags: [projects]
+tags: [product-building]
 ---
 ![Dinner](/images/2018/12/Dinner.jpg)
 
@@ -49,9 +49,9 @@ Also I’m embarking in a new adventure for me, I’m going to try to make a liv
 When will I post?: When I have something interesting enough to share. I don't want to live of this blog nor make it a job. I just want to write and share. So whenever the interesting stuff comes to my mind and I can move my lazy ass to write it down. Ideally I would love to write once a week, but I’m pretty sure a fixed schedule isn't realistic.
 
 ## Why?
-- Having (hopefully) at least a bunch of people reading my stuff and posting it publicly seems like a great way to held myself accountable for my plans and projects. And if not, at least suffer the shame 😈.
+- Having (hopefully) at least a bunch of people reading my stuff and posting it publicly seems like a great way to held myself accountable for my plans and product-building. And if not, at least suffer the shame 😈.
 - I have been consuming info in The Internet since a child without giving much back. I learned most of what I know in the internet! So its about time to give at least a bit back.
-- I want to be transparent here, not everything is purely altruistic. Another great reason is building an audience for my projects. I have always been jealous of other devs/makers/content creators who get constant feedback and exposure on their stuff thanks to their audience. I hope to accomplish that someday too!
+- I want to be transparent here, not everything is purely altruistic. Another great reason is building an audience for my product-building. I have always been jealous of other devs/makers/content creators who get constant feedback and exposure on their stuff thanks to their audience. I hope to accomplish that someday too!
 - It's a great excuse to sit down and write. Something I love to do and I don't do nearly enough.
 - And to practice my Markdown!
 - I have tried in the past to go with social media as a self expression medium...and I failed miserably. I feel like a personal blog might be a better fit for me.

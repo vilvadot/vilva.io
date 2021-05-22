@@ -2,7 +2,7 @@
 title: "1 year of building & Byte Vitae's post mortem ☠️"
 permalink: blog/1-year-of-building-reflections/
 date: '2020-09-14'
-tags: [projects]
+tags: [product-building]
 ---
 After more than a year working on [ByteVitae](https://bytevitae.com), going through ups and downs I feel it's time I reflect on how things have gone.
 
@@ -67,7 +67,7 @@ I had been kinda obsessed with this idea since a long time ago and specially sin
 *   **I love making products:** Nothing wrong with that! But building a product and building a business require two different mindsets. I abandoned quite fast the idea of 12 startups in 12 months in favour of "learn to build something great". If you want to build a business, you better put on the hardcore business hat and validate early and fast. You might need (or not) to develop something custom to serve your users, but **that product is just a too**l to support your business.I chose to put on the techie hat.. With that decision, I chose to build my own skills by **using a business as a tool**. So it's no surprise that the tech side of things went great, and the money side of things went horribly wrong!.
 *   **I'm not good at everything:** To build something profitable on your own, you better learn to put on ALL of the hats. I have been avoiding marketing stuff for years, and I thought during this past year things would go great, I would learn tons and learn to love it. Surprise...it didn't happen! I really don't enjoy doing marketing stuff and I have come to make peace with myself. I'm human and there is stuff I will suck at. Also my love and appreciation for all my marketing teams in the past has increased x1000   🖤 Clara!I feel, it's better to focus on the stuff I love doing, which takes me to:
 *   **Going solo is great, but having a partner is AMAZING**: I always dreamt of the solo maker/founder cracking out profitable products on his own a la Pieter levels. I'm sure there are people capable of that. But in my own case, the few weeks I could work elbow to elbow with my brother felt amazing. Being able to rely on someone to make the stuff you are not good at, and having another brain to throw stuff against felt really healthy.
-*   **Forcing myself to crank out projects felt miserable**: So with ByteVitae it felt really good to work on it, I was very encouraging to see friends using it to find jobs, and seeing it was making a real impact on people's lifes.As soon as I released it, and I got to find "my next money idea" I started to get stressed out, unhappy and miserable all around. I was chasing the "successful solopreneur story", but it didn't feel right. I felt I was using my free time to build something with the idea of "maybe" buying free time for the future me. That's an error I had made once in the past, and there I was, falling for it again.
+*   **Forcing myself to crank out product-building felt miserable**: So with ByteVitae it felt really good to work on it, I was very encouraging to see friends using it to find jobs, and seeing it was making a real impact on people's lifes.As soon as I released it, and I got to find "my next money idea" I started to get stressed out, unhappy and miserable all around. I was chasing the "successful solopreneur story", but it didn't feel right. I felt I was using my free time to build something with the idea of "maybe" buying free time for the future me. That's an error I had made once in the past, and there I was, falling for it again.
 
 **Lessons learnt**
 ------------------

@@ -2,7 +2,7 @@
 title: "Week #2 - There is no journey without a ship!"
 permalink: blog/week-2-there-is-no-journey-without-a-ship-journey-bytevitae/
 date: '2019-05-24'
-tags: [projects]
+tags: [product-building]
 ---
 ![Week #2 - There is no journey without a ship!](/images/2019/05/ship.jpg)
 
