@@ -1,9 +1,9 @@
-<ul class="post-list">
+<ul class="project-list">
   {% for project in projectsList | reverse %}
-    <li class="post-list__item">
+    <li class="project-list__item">
       <div>
 
-        <div class="post-list__tags">
+        <div class="project-list__tags">
           {% for tag in project.data.tags %}
             {%- if collections.tagList.indexOf(tag) != -1 -%}
               {% set tagUrl %}/tags/{{ tag }}/{% endset %}
@@ -14,11 +14,11 @@
         
       </div>
 
-      <h3 class="post-list__title">
+      <h3 class="project-list__title">
         <a  href="{{ project.url }}">{{ project.data.title }}</a>
       </h3>
 
-      <p class="post-list__excerpt">{{ project.templateContent | excerpt | safe  }}</p>
+      <p class="project-list__excerpt">{{ project.templateContent | excerpt | safe  }}</p>
     </li>
   {% endfor %}
 </ul>

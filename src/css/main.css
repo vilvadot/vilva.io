@@ -3,6 +3,7 @@
 @import 'prism-theme.css';
 @import 'typography.css';
 @import 'post-list.css';
+@import 'project-list.css';
 @import 'hero.css';
 @import 'header.css';
 @import 'footer.css';
@@ -25,4 +26,5 @@
   max-width: 48.75rem;
   margin-left: auto;
   margin-right: auto;
+  width: 100%;
 }

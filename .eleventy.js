@@ -56,6 +56,19 @@ module.exports = function (eleventyConfig) {
     return content.substr(0, content.lastIndexOf(' ', 200)) + '...';
   });
 
+
+  eleventyConfig.addFilter('getYear', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
+      'yyyy'
+    );
+  });
+
+  eleventyConfig.addFilter('noYear', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
+      'dd LLL'
+    );
+  });
+
   eleventyConfig.addFilter('readableDate', (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat(
       'dd LLL yyyy'
