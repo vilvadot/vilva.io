@@ -1,11 +1,11 @@
 ---
 title: "Serpento"
-date: '2019-04-03'
+date: '2018-01-12'
+tags: [projects]
 description: 🐍 An interactive twist to the classic "snake"
 demoLink: https://serpento.vilva.io/
-permalink: projects/serpento/
 repoLink: https://github.com/vilvadot/serpento2.0
-tags: [projects]
+permalink: projects/serpento/
 stack: 
   - javascript 
   - P5.js 
@@ -21,7 +21,13 @@ team:
   - Diego Iglesias 
   - Carmen Mérida 
   - Vilva.
-
+relatedLinks:
+  - name: ‘Cuando la pantalla es la plaza’ en El País
+    url: https://elpais.com/ccaa/2018/01/11/madrid/1515690865_952714.html
+  - name: Medialab-Prado, Madrid City Hall
+    url: https://www.medialab-prado.es/
+  - name: Hyper Studio (stole your texts 👀)
+    url: https://hyperstudio.es/en/project/serpento/
 ---
 SERPENTO is a multiplayer, massive and urban version of the ‘snake’. A reinterpretation of one of the most epic arcade games in digital culture, which escapes the autism of our devices to occupy the urban screen of Medialab-Prado and its plaza.
 
