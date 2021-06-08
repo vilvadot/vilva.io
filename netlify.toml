@@ -2,3 +2,8 @@
   from = "/*"
   to = "/blog/:splat"
   status = 301
+
+[[redirects]]
+  from = "/"
+  to = "/blog/"
+  status = 301
