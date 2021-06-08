@@ -4,8 +4,6 @@ permalink: blog/about/
 date: '2019-04-03'
 tags: [product-building]
 ---
-![Dinner](/images/2018/12/Dinner.jpg)
-
 This blog has been sitting empty for a few months now, so I think its about time I post something and give it some life!
 
 I think a beautiful way to put it all into context is answering the 5 main questions. In [Wikipedia's words](https://en.wikipedia.org/wiki/Five_Ws):

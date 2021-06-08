@@ -2,7 +2,7 @@
   {% for post in postslist | reverse %}
     {% set currentYear %}{{ post.date | getYear }}{% endset %}
     {%- if currentYear != lastYear -%}
-      <h2>{{ currentYear }}</h2>
+      <h2 class="post-list__year">{{ currentYear }}</h2>
       {% set lastYear %}{{ currentYear }}{% endset %}
     {%- endif -%}
     <li class="post-list__item">

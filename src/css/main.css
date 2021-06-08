@@ -10,6 +10,15 @@
 @import 'post.css';
 @import 'about.css';
 
+.intro {
+  font-size: 2rem;
+  padding-top: 3rem;
+}
+
+.intro strong {
+  font-weight: bold;
+}
+
 .layout-wrapper {
   display: grid;
   grid-template-rows: auto minmax(0, 1fr) auto;

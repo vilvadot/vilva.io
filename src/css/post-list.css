@@ -50,7 +50,6 @@
 .post-list__title a {
   font-weight: normal;
   text-decoration: none;
-  color: rgb(41, 41, 41);
 }
 
 .post-list__title a:hover {
@@ -76,7 +75,7 @@
 
 .post-list__tags a {
   text-decoration: none;
-  color: rgb(117, 117, 117);
+  color: rgb(80, 80, 80);
 }
 
 .post-list__tags a:hover {
@@ -113,4 +112,9 @@
   font-size: var(--text-lg);
   text-decoration: underline;
   color: currentColor;
+}
+
+
+.post-list__year {
+  color: rgb(155, 155, 155);
 }
