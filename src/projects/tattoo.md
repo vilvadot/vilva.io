@@ -9,8 +9,5 @@ demo: http://idea-generator.vilva.io/
 repo: https://github.com/vilvadot/idea-generator
 stack: 
   - Node.js
-relatedLinks:
-  - name: Hyper Studio (stole your texts 👀)
-    url: https://hyperstudio.es/en/project/serpento/
 ---
 My first try at procedural generation! It uses a series of ugly permutations to generate ideas for tattoo designs.

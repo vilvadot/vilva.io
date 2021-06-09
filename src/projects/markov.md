@@ -8,7 +8,7 @@ image: /images/projects/markov/1.gif
 repo: https://github.com/vilvadot/markov-text
 stack: 
   - javascript 
-relatedLinks:
+related:
   - name: Markov Chains tutorial
     url: https://starbeamrainbowlabs.com/blog/article.php?article=posts/236-Markov-Chain-Part-1-N-Grams.html
 secret: This came as a result of spending way too much time in reddit/proceduralgeneration.

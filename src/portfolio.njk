@@ -20,11 +20,22 @@ title: 'Experiments'
         <br/>
         <small class="project-list__aside">
           <time datetime="{{ post.date | htmlDateString }}">{{ project.date | monthDate }}</time>
+          
           {%- if project.data.repo -%}
             <span> |</span>
             <a href="{{ project.data.repo }}" target="_blank">🐙 Repo</a>
           {%- endif -%}
+
+          {%- if project.data.related -%}
+            <span> | </span>
+            <span>More info:</span>
+            {% for entry in project.data.related | reverse %}
+                <a href="{{ entry.url}}" title="{{ entry.name }}" target="_blank">🔗</a>
+            {% endfor %}
+          {% endif %}
+
           <p class="project-list__excerpt">{{ project.templateContent | summary | safe }}</p>
+          <br/>
         </li>
       {% endfor %}
     </ul>

@@ -10,7 +10,7 @@ demo: https://bytevitae.com/
 stack: 
   - Node.js
   - React
-relatedLinks:
+related:
   - name: HackerNews launch
     url: https://news.ycombinator.com/item?id=20995056
   - name: ProductHunt launch

@@ -12,12 +12,12 @@ stack:
   - P5.js 
   - OSC protocol 
   - Web Sockets
-relatedLinks:
+related:
   - name: ‘Cuando la pantalla es la plaza’ en El País
     url: https://elpais.com/ccaa/2018/01/11/madrid/1515690865_952714.html
   - name: Medialab-Prado, Madrid City Hall
     url: https://www.medialab-prado.es/
-  - name: Hyper Studio (stole your texts 👀)
+  - name: Hyper Studio (stole your texts 🖤)
     url: https://hyperstudio.es/en/project/serpento/
 ---
 SERPENTO is a multiplayer, massive and urban version of the ‘snake’. A reinterpretation of one of the most epic arcade games in digital culture. Done with the [serpento team](https://hyperstudio.es/en/project/serpento/) in colaboration with [Medialab Prado](https://www.medialab-prado.es/).
