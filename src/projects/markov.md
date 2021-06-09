@@ -4,7 +4,7 @@ date: '2019-01-02'
 permalink: projects/markov-text/
 tags: [projects]
 
-image: /images/projects/1.gif
+image: /images/projects/markov/1.gif
 repo: https://github.com/vilvadot/markov-text
 stack: 
   - javascript 
