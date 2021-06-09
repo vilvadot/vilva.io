@@ -1,13 +1,30 @@
 --- 
 layout: base.njk 
-permalink: /portfolio/
-title: 'Portfolio'
+permalink: /experiments/
+title: 'Experiments'
 ---
 
-<h1>Projects</h1>
+<h1>Experiments</h1>
 
 <div class="tags">
 </div>
 
-{% set projectsList = collections.projects %}
-{% include "projects-list.njk" %}
+<ul class="project-list">
+  {% for project in collections.projects | reverse %}
+    <a href="{{ project.data.demo }}" target="_blank">
+      <li class="project-list__item">
+        <img src="{{ project.data.image }}" title="{{ project.data.secret }}"/>
+        <h3 class="project-list__title">
+          <a href="{{ project.data.demo }}" target="_blank">{{ project.data.title }}</a>
+        </h3>
+        <br/>
+        <small class="project-list__aside">
+          <time datetime="{{ post.date | htmlDateString }}">{{ project.date | monthDate }}</time>
+          {%- if project.data.repo -%}
+            <span> |</span>
+            <a href="{{ project.data.repo }}" target="_blank">🐙 Repo</a>
+          {%- endif -%}
+          <p class="project-list__excerpt">{{ project.templateContent | summary | safe }}</p>
+        </li>
+      {% endfor %}
+    </ul>

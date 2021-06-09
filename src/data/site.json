@@ -14,8 +14,13 @@
       "external": false
     },
     {
-      "text": "Projects",
-      "url": "/portfolio",
+      "text": "Experiments",
+      "url": "/experiments",
+      "external": false
+    },
+    {
+      "text": "Cool",
+      "url": "/cool-stuff",
       "external": false
     },
     {

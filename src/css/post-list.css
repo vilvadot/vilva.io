@@ -32,14 +32,14 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  border-top: 1px solid rgba(230, 230, 230, 1);
+  padding-bottom: .5rem;
+  padding-top: .5rem;
+  /* border-top: 1px solid rgba(230, 230, 230, 1); */
   width: 100%;
 }
 
 .post-list__item:last-child {
-  border-bottom: 1px solid rgba(230, 230, 230, 1);
+  /* border-bottom: 1px solid rgba(230, 230, 230, 1); */
 }
 
 .post-list__title {
@@ -116,5 +116,6 @@
 
 
 .post-list__year {
-  color: rgb(155, 155, 155);
+  /* color: rgb(155, 155, 155); */
+  text-decoration: underline;
 }

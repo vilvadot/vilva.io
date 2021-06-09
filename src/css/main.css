@@ -9,11 +9,8 @@
 @import 'footer.css';
 @import 'post.css';
 @import 'about.css';
+@import 'page.css';
 
-.intro {
-  font-size: 2rem;
-  padding-top: 3rem;
-}
 
 .intro strong {
   font-weight: bold;
